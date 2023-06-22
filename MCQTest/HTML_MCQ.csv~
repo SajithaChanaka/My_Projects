@@ -1,0 +1,17 @@
+﻿1. What does HTML standard for?, Hyper Tech Markup Language., Hyper Test Makeup Language., Hyper Text Markup language., None of These.,C
+2. HTML is what type of Language?,Scripting Language,Markup Language,Programming Language,Network protocol,B
+3. What is the correct HTML tag for inserting a line break?, <br>, <break>, <lb>, <newline>,A
+,,,,,
+4. Which is not a core attribute of HTML tags?, ID, Font, Title, Class,B
+,,,,,
+5. HTML document start and end with which tag pair?, <HEAD>…...</HEAD>, <BODY>…...</BODY, <HTML>…...</HTML>, <WEB>…....</WEB>,C
+,,,,,
+6. HTML tags are used to describe document…........., Content, Language, None of these, Definition,A
+,,,,,
+7. <Title>…..</Title> tag must be within….........., Title,Form, Head, Body,C
+,,,,,
+8.In HTML we have ….......type of heading tags.,7,5,4,6,D
+,,,,,
+9. Choose the correct HTML tag to make the text bold?,<B>,<bold>,<Strong>,None of these,A
+,,,,,
+10. All HTML tags are enclosed in what?,<>,<?php and ?>,# and #,<!-and -->,B

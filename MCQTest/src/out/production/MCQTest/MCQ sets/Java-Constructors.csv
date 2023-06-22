@@ -1,0 +1,10 @@
+﻿1. What is JDK means?, Java Dependency Kit., Java Demonstration Kit., Java Development Kit., Java Decompiler Kit.,C
+2. Which tool compiler debug and execute java program?, JVM, JDK, JIT, JRE,B
+3. What is the Extension of java source file?, .Class, .Java, .txt, .Js,B
+5. Javac is used to, Convert java file to class file., Converts class file to java file., Converts java file to object file., Interprets java Code.,A
+4. What is the extension of compiled java classes?, .Js, .Java, .txt, .Class,D
+6. Which of the following is not an OOPS concept in java?, Polymorphism, Inheritance, Compilation, Encapsulation,C
+7. What is the syntax for declaring a static method?, Public static void myMethod() {}, Public static myMethod();, Public static class myMethod();, Public class myMethod() {},A
+8. Which tool is used to run java program?, JVM, JDK, JIT, JRE,D
+9. Which one of the following is not a java feature?, Object-Oriented., Use of Pointers., Portable., Dynamic and Extensible.,B
+10. What line creates a scanner object for you to use?, input = Scanner(System.in);, Scanner input = Scanner(input);, Scanner input = new Scanner(System.in), Scanner input;,C
