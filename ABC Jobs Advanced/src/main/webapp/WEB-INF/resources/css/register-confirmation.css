@@ -1,0 +1,22 @@
+.confirmation {
+  width: 600px;
+  padding: 30px;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  padding-bottom: 50px;
+}
+
+.fa-check {
+  font-size: 3rem;
+}
+
+button {
+  padding: 8px 40px;
+}
+
+@media (max-width: 768px) {
+  .confirmation {
+    width: 100%;
+  }
+}

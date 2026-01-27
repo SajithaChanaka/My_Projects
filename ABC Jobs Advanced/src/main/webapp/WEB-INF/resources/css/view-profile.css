@@ -1,0 +1,103 @@
+.profile {
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  width: 850px;
+  overflow: hidden;
+}
+
+.banner {
+  height: 200px;
+  background-color: aliceblue;
+}
+
+.banner img {
+  width: 100%;
+  height: 100%;
+}
+
+.profile-picture {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  overflow: hidden;
+  top: -110px;
+}
+
+.profile-picture img {
+  width: 100%;
+  height: 100%;
+}
+
+.navigation {
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  padding: 8px 30px;
+  width: 850px;
+}
+
+.nav-profile {
+  cursor: pointer;
+  margin-right: 50px;
+}
+
+aside {
+  width: 100%;
+}
+
+.profile-section {
+  margin-top: 20px;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  padding: 20px 30px;
+}
+
+/* people */
+.people {
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.people-profile {
+  cursor: pointer;
+}
+
+.people-profile:hover {
+  opacity: 0.8;
+}
+
+.people .image {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.people .image img {
+  width: 100%;
+  height: 100%;
+}
+
+.people .detail p {
+  margin: 0;
+}
+
+.logo img {
+  width: 60px;
+}
+
+@media (max-width: 1200px) {
+  .main-profile {
+    width: 700px;
+  }
+  .profile,
+  .navigation,
+  .about {
+    width: 100%;
+  }
+}
+
+@media (max-width: 992px) {
+  .main-profile {
+    width: 100%;
+  }
+}

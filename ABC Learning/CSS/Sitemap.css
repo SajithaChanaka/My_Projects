@@ -1,0 +1,21 @@
+article ul li{
+    text-align: center;
+    margin-top: 30px;
+}
+
+article ul li :hover{
+    color: blue;
+    text-decoration:underline;
+}
+
+footer{
+    padding-top:2px;
+}
+
+a{
+    color: black;
+}
+
+.nav__links a{
+    color: white;
+}
